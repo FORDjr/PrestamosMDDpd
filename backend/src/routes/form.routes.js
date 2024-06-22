@@ -4,24 +4,15 @@ import { createForm, getForm, updateForm, deleteForm } from "../controllers/form
 const router = Router();
 
 // Ruta para crear formulario
-router.post("/", (createForm) => {
-  res.send("Formulario enviado");
-});
+router.post("/", createForm);
 
 // Ruta para obtener formulario
-router.get("/:id", (getForm) => {
-  res.send("Formulario");
-});
+router.get("/:id", getForm);
 
 // Ruta para modificar formulario
-router.put("/:id", (updateForm) => {
-  res.send("Formulario modificado");
-});
+router.put("/:id", updateForm);
 
 // Ruta para eliminar formulario
-router.delete("/:id", (deleteForm) => {
-  res.send("Formulario eliminado");
-});
+router.delete("/:id", deleteForm);
 
 export default router;
-

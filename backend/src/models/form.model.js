@@ -5,7 +5,7 @@ const formSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-        rut: {
+    rut: {
         type: String,
         required: true,
         unique: true
@@ -16,7 +16,7 @@ const formSchema = new mongoose.Schema({
         unique: true
     },
     direccion: {
-        type: Number,
+        type: String,
         required: true
     },
     mensaje: {
