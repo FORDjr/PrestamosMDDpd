@@ -9,4 +9,4 @@ Este proyecto esta enfocado en la creacion de un software sobre prestamos deport
 
 Este proyecto contiene [login, "agregar funcionalidades"]
 
-⌨️ with ❤️ by [@FORDjd](https://github.com/FORDjr) [@DegoJK](https://github.com/degojk) [@HunterUrisus](https://github.com/HunterUrisus) [@FueguitoOutzz](https://github.com/FueguitoOutzz)
+⌨️ with ❤️ by [@FORDjr](https://github.com/FORDjr) [@DegoJK](https://github.com/degojk) [@HunterUrisus](https://github.com/HunterUrisus) [@FueguitoOutzz](https://github.com/FueguitoOutzz)
